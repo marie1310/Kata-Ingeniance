@@ -1,0 +1,10 @@
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\bin\Debug\netstandard2.0\SupermarketPricerLibrary.deps.json
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\bin\Debug\netstandard2.0\SupermarketPricerLibrary.dll
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\bin\Debug\netstandard2.0\SupermarketPricerLibrary.pdb
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\obj\Debug\netstandard2.0\SupermarketPricerLibrary.csproj.AssemblyReference.cache
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\obj\Debug\netstandard2.0\SupermarketPricerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\obj\Debug\netstandard2.0\SupermarketPricerLibrary.AssemblyInfoInputs.cache
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\obj\Debug\netstandard2.0\SupermarketPricerLibrary.AssemblyInfo.cs
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\obj\Debug\netstandard2.0\SupermarketPricerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\obj\Debug\netstandard2.0\SupermarketPricerLibrary.dll
+C:\Users\Marie\Pictures\Kata Ingeniance\src\SupermarketPricerLibrary\obj\Debug\netstandard2.0\SupermarketPricerLibrary.pdb
